@@ -1,0 +1,40 @@
+
+/* #result-p {
+    display: inline;
+    padding-left: 20px;
+}
+
+#equal-p{
+    display: inline;
+    padding-left: 20px;
+}
+
+#container{
+    background-color: aqua;
+    max-width: 100px;
+    display: flex;
+    justify-content: center;
+    
+} */
+
+/* #container{
+    display: flex;
+    margin: auto;
+    max-width: 150px;
+
+} */
+
+P{
+    
+    display: inline;
+    padding-left: 10px;
+}
+
+#container{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+
+    
+}
